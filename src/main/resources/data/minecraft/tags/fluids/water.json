@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "createcafe:mango_tea",
+    "createcafe:mana_tea",
+    "createcafe:blood_tea",
+    "createcafe:lime_tea",
+    "createcafe:lychee_tea",
+    "createcafe:kiwi_tea",
+    "createcafe:watermelon_tea",
+    "createcafe:vanilla_tea",
+    "createcafe:lemon_tea",
+    "createcafe:orange_tea",
+    "createcafe:oreo_tea",
+    "createcafe:blueberry_tea",
+    "createcafe:strawberry_tea",
+
+    "createcafe:filling",
+    "createcafe:melted_sugar"
+  ]
+}
