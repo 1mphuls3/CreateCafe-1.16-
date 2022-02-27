@@ -1,4 +1,6 @@
 {
+  "block.createcafe.melted_sugar": "Melted Sugar",
+
   "tooltip.createcafe.res": "Resistance (0:12)",
   "tooltip.createcafe.regen": "Regeneration (0:13)",
   "tooltip.createcafe.strength": "Strength (0:10)",
