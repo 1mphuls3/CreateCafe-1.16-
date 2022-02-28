@@ -36,7 +36,7 @@
       ],
       "results": [
         {
-          "item": "createcafe:oreo_incomplete"
+          "item": "createcafe:oreo"
         }
       ]
     }
@@ -47,5 +47,5 @@
       "count": 1
     }
   ],
-  "loops": 0
+  "loops": 1
 }
